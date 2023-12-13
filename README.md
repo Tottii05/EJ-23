@@ -79,7 +79,7 @@ Ahora que tenemos esta pestaña, hay un desplegable arriba donde se seleccionar�
 
 Una vez seleccionada la rama, tendremos que poner obligatoriamente un comentario a la hora de hacer el commit, el comentario puede ser el que uno quiera, pero lo que debe contener al final debe ser "Closes #número de la Issue".
 
-![Alt text](imagenes/Comentario_en_visual-1.PNG)
+![Alt text](imagenes/Comentario_en_visual.PNG)
 
 Con el comentario puesto, y una vez dado al botón de "commit all", tendremos que crear una pull request, para ello le damos al botón con un símbolo de una flecha para arriba (pull).
 
