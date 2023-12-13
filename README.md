@@ -37,7 +37,7 @@ Se abrirá un pequeño menú con diferentes plantillas para utilizar en nuestro 
 
 Teniendo la plantilla seleccionada solo queda nombrar a nuestro proyecto, el cual es a gusto del usuario por supuesto.
 
-![Alt text](imagenes/Nombrar_proyecto.PNG)
+![Alt text](imagenes/nombrar_proyecto.PNG)
 
 ## 3. Creación de Issues y ramas correspondientes
 
@@ -75,7 +75,7 @@ Ahora tendrá que salir una pestaña en la zona derecha, similar a esta:
 
 Ahora que tenemos esta pestaña, hay un desplegable arriba donde se seleccionará la rama correspondiente a la "Issue" creada.
 
-![Alt text](imagenes/Seleccionar_rama.PNG)
+![Alt text](imagenes/seleccionar_rama.PNG)
 
 Una vez seleccionada la rama, tendremos que poner obligatoriamente un comentario a la hora de hacer el commit, el comentario puede ser el que uno quiera, pero lo que debe contener al final debe ser "Closes #número de la Issue".
 
@@ -91,7 +91,7 @@ Una vez hecho el push, saldrá un mensajito que pondrá que el push se ha realiz
 
 Con la pull request creada habrá que entrar en nuestro proyecto y en el apartado de pull requests.
 
-![Alt text](imagenes/Apartado_pr.PNG)
+![Alt text](imagenes/apartado_pr.PNG)
 
 Dentro de ese apartado saldrá la opción de juntar la rama creada con el proyecto, simplemente tendremos que dar al botón verde que pondrá "Merge pull request".
 
